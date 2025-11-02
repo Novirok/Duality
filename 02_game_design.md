@@ -32,11 +32,7 @@
 
 ---
 
-## 🪫 Energie (volitelné)
+## 🪫 Energie
 Přepínání mezi světy může brát energii, aby hráč musel promýšlet kroky dopředu.
 
 ---
-
-## 💬 Shrnutí
-**Duality** je logická 2D hra o přepínání světů a řešení hádanek.  
-Hráč se nesoustředí na rychlost, ale na pochopení principů obou realit.
